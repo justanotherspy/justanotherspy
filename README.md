@@ -6,17 +6,22 @@ My name is Daniel and I am a DevSecOps engineer working in fintech at the moment
 
 Currently exploring DevOps and AI automation, building little toys and experimenting with new ideas. Giving talks about Claude Code.
 
-## Talks
+## Community
 
 You can find my talks [here](https://github.com/justanotherspy/talks) and ask me questions there!
 
-## Website
+I hosted a Claude Build day, the code is [here](https://github.com/justanotherspy/claude-build-day).
 
-[justanotherspy.com](https://justanotherspy.com) is my work in progress website.
+## Website and Social
 
-There is also a [dead-drop](https://justanotherspy.com/dead-drop/) you can use to contact me.
+[justanotherspy.com](https://justanotherspy.com) is my simple portfolio website.
+
+I am on LinkedIn (in the profile side bar).
+
+There is also a [dead-drop](https://justanotherspy.com/dead-drop/) you can use to contact me directly if needed.
 
 ## Toy Projects
 
-- [Garlic CLI](https://github.com/justanotherspy/garlic)
-- [Shuck CLI](https://github.com/justanotherspy/shuck)
+- [Garnish - a statusline tool for Claude Code in rust](https://github.com/justanotherspy/garnish)
+- [Garlic - a little time tracker for Claude Code users in rust](https://github.com/justanotherspy/garlic)
+- [Shuck - a tool to simplify calling the GitHub API for Claude Code in go](https://github.com/justanotherspy/shuck)
