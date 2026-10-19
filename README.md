@@ -1,27 +1,11 @@
-# 👀
+# Hello there
 
-My name is Daniel and I am a DevSecOps engineer working in fintech at the moment.
+I'm Daniel, an SRE at JUMO and Claude Ambassador for Cape Town. 
 
-## 🔧 What I'm Working On
+I build platforms for engineers and infrastructure for financial services as my day job
 
-Currently exploring DevOps and AI automation, building little toys and experimenting with new ideas. Giving talks about Claude Code.
+For fun I Claude events, and teach people how to get the most out of Claude, while building all sorts of weird things.
 
-## Community
+You can find my talks [here](https://github.com/justanotherspy/talks) and a basic portfolio website [justanotherspy.com](https://justanotherspy.com).
 
-You can find my talks [here](https://github.com/justanotherspy/talks) and ask me questions there!
-
-I hosted a Claude Build day, the code is [here](https://github.com/justanotherspy/claude-build-day).
-
-## Website and Social
-
-[justanotherspy.com](https://justanotherspy.com) is my simple portfolio website.
-
-I am on LinkedIn (in the profile side bar).
-
-There is also a [dead-drop](https://justanotherspy.com/dead-drop/) you can use to contact me directly if needed.
-
-## Toy Projects
-
-- [Garnish - a statusline tool for Claude Code in rust](https://github.com/justanotherspy/garnish)
-- [Garlic - a little time tracker for Claude Code users in rust](https://github.com/justanotherspy/garlic)
-- [Shuck - a tool to simplify calling the GitHub API for Claude Code in go](https://github.com/justanotherspy/shuck)
+You can find me on Linkedin if you want to get in touch.
